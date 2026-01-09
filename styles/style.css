@@ -69,8 +69,7 @@ background-size: cover;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 1350px;
-    height: 379px;
+     height: 379px; 
     text-align: center;
     margin: auto;
 }
@@ -248,6 +247,7 @@ border-radius: 50%;
 .brain-container {
     display: flex;
     gap: 50px;
+    /* justify-content: space-between; */
 }
 
 .brain-content {
@@ -342,9 +342,9 @@ padding-top: 0px;
     .container-footer{ align-items: center;
       
     height: 300px;
-    border-radius: 8px;
+   
     padding: 80px 150px;
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
         background-color: #001931;}
  
      .first a{
